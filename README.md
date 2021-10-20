@@ -1,9 +1,11 @@
-<h1 align="center">Website Load Time </h1> 
+<h1 align="center"> Website load time </h1> 
 <p align="center">
-  <img src="https://github.com/Osama-NJ/University-Sonar/blob/main/img/dev_exp_share-logo.png" />
+  <img src="https://github.com/Osama-NJ/Website-Load-Time/blob/main/img/oclock.gif" />
 </p>
+
 ### Requirements:
-* 🐍 Python  3.x
+* 🐍Python  3.x
+
 
 <strong>Execution:</strong>
 * Install Python modules &#8594;(Urlopen, Time)
